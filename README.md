@@ -1,13 +1,16 @@
-# 🎃 Responsive Halloween Website
-## [Watch it on youtube](https://youtu.be/TBEOARNn2Gc)
-### 🎃 Responsive Halloween Website
+# 🎃 House Of Halloween 🎃
 
-- Responsive Halloween Website Design Using HTML CSS & JavaScript
-- With a dark and elegant interface.
-- Contains animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Your full stop solution to enjoy Halloween this year and next year.
+### 🎃 Includes
+- Timer for Halloween
+- Scary Movie Suggestions
+- Party Searcher for Halloween
+- Online Games based on Halloween theme
+- Lots of Stories regarding Halloween and people enjoying it.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+### 👻 Techstack
+- HTML
+- CSS
+- Javascript
 
 ![preview img](/preview.png)
