@@ -1,7 +1,10 @@
 # 🎃 House Of Halloween 🎃
 
 Your full stop solution to enjoy Halloween this year and next year.
-### 🎃 Includes
+
+Currently it is Landing page only but next version will have. 
+
+### 🎃 Future plans
 - Timer for Halloween
 - Scary Movie Suggestions
 - Party Searcher for Halloween
